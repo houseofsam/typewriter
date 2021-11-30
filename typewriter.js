@@ -8,8 +8,3 @@ for (let i = 0; i < sentence.length; i++) {
 }
 
 setTimeout(() => process.stdout.write('\n'), time);
-
-
-// setTimeout(() => {
-
-// }, 1000);
